@@ -31,7 +31,7 @@ def display_image(screen, image_path, window_size):
         print("invalid read")
 
 def main():
-    image_path = "./clock.png"
+    image_path = "./overlayed_gif.png"
     window_size = (640, 320)
     
     # Initialize Pygame
